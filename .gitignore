@@ -23,5 +23,6 @@ node_modules/
 dist/
 .env
 .env.local
-
-TB_Chest_Radiography_Database
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
